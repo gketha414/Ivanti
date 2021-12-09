@@ -1,0 +1,9 @@
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\bin\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.deps.json
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\bin\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.dll
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\bin\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.pdb
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\obj\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.csprojAssemblyReference.cache
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\obj\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.AssemblyInfoInputs.cache
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\obj\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.AssemblyInfo.cs
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\obj\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.csproj.CoreCompileInputs.cache
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\obj\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.dll
+C:\Users\giri.ketha\source\repos\Ivanti.Triangle\Ivanti.Triangle.Domain\obj\Debug\netcoreapp3.1\Ivanti.Triangle.Domain.pdb

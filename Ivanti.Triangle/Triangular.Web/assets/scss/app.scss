@@ -1,0 +1,19 @@
+﻿@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+polygon.leftTriangle {
+    fill: red;
+}
+
+polygon.rightTriangle {
+    fill: blue;
+}
+
+polygon.active {
+    fill: limegreen;
+}
+
+h2 {
+    border-bottom: 1px solid #000000;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}

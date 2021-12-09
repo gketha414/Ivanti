@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.API\\Ivanti.Triangle.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.API\\Ivanti.Triangle.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.API\\Ivanti.Triangle.API.csproj",
+        "projectName": "Ivanti.Triangle.API",
+        "projectPath": "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.API\\Ivanti.Triangle.API.csproj",
+        "packagesPath": "C:\\Users\\giri.ketha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\giri.ketha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repo.curaspan.local/artifactory/api/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.Domain\\Ivanti.Triangle.Domain.csproj": {
+                "projectPath": "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.Domain\\Ivanti.Triangle.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.Domain\\Ivanti.Triangle.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.Domain\\Ivanti.Triangle.Domain.csproj",
+        "projectName": "Ivanti.Triangle.Domain",
+        "projectPath": "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.Domain\\Ivanti.Triangle.Domain.csproj",
+        "packagesPath": "C:\\Users\\giri.ketha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giri.ketha\\source\\repos\\Ivanti.Triangle\\Ivanti.Triangle.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\giri.ketha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repo.curaspan.local/artifactory/api/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
